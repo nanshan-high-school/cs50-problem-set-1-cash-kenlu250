@@ -29,8 +29,5 @@ int main() {
     money = money - 1;
     one++;
   }
-  cout << "一元有" << one << "個\n";
-
-  
-    
+  cout << "一元有" << one << "個\n";    
 }
