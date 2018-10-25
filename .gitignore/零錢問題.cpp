@@ -2,11 +2,7 @@
 using namespace std;
 
 int main() {
-  int money = 0;
-  int fifty = 0;
-  int ten = 0;
-  int five = 0;
-  int one = 0;
+  int money, fifty, ten, five, one = 0;
 
   cout <<"請輸入金額:";
   cin >> money;
